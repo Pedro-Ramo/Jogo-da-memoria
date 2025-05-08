@@ -21,6 +21,7 @@ h3 {
   margin-left: 33%;
 }
 .main {
+    background-image: url(fundo.jpg);
   width: 100px;
   height: 100px;
   position:relative;
