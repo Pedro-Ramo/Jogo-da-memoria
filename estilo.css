@@ -20,8 +20,9 @@ h3 {
 #box {
   margin-left: 33%;
 }
-.main {
-    background-image: url(fundo.jpg);
+.main1 {
+  background-image: url(mcquenn.jpg);
+  background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
@@ -54,7 +55,8 @@ h3 {
   }
 
 .main2{
-  background-image: url(img.jpg);
+  background-image: url(caminhao.jpg);
+  background-size: 100%;
   width: 100px;
   height: 100px;
   position:relative;
@@ -63,6 +65,107 @@ h3 {
   margin: 5px;
   
 
+}
+
+.main3{
+
+  background-image: url(hicks.jpg);
+  background-size: 100%;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
+
+
+
+}
+
+.main4{
+
+
+  background-image: url(hudson.jpg);
+  background-size: 100%;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
+}
+
+.main5{
+
+  background-image: url(matt.jpg);
+  background-size: 100%;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
+}
+
+.main6{
+
+  background-image: url(sally.jpg);
+  background-size: 100%;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
+}
+
+.main7{
+
+  background-image: url(filmore.jpeg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
+}
+
+.main8{
+
+  background-image: url(rei.jpg);
+  background-size: 100%;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
+}
+
+.main9{
+
+  background-image: url(ramom.jpg);
+  background-size: 100%;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
+}
+
+.main10{
+
+  background-image: url(flo.jpg);
+  background-size: 100%;
+  width: 100px;
+  height: 100px;
+  position:relative;
+  transform-style: preserve-3d;
+  border: solid black 2px;
+  margin: 5px;
 }
 
   
