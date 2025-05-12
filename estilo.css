@@ -55,8 +55,9 @@ h3 {
   }
 
 .main2{
-  background-image: url(caminhao.jpg);
-  background-size: 100%;
+  background-image: url(o-carro-lewis-hamilton-no-filme-carros-2-original.webp);
+  background-size: 190px;
+  background-repeat: no-repeat;
   width: 100px;
   height: 100px;
   position:relative;
